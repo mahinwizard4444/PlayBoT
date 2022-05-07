@@ -237,7 +237,7 @@ async def start(client, message):
         file_id=file_id,
         caption=f_caption,
         reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton("💌 ᴛɪᴘs", callback_data="tips"),
-                                              InlineKeyboardButton("💝 sʜᴀʀᴇ", url="https://t.me/share/url?url=😱%20onlymovie%2076.²·⁰%20😱%0A%0Aഏത്%20അർധരാത്രി%20ചോദിച്ചാലും%20പടം%20കിട്ടും,%20ലോകത്തിലെ%20ഒട്ടുമിക്ക%20ഭാഷകളിലുമുള്ള%20സിനിമകളുടെ%20കളക്ഷൻ..%20❤️%0A%0A👇%20GROUP%20LINK%20👇%0A@onlymovie760A@onlymovie76%0A@onlymovie76") ],
+                                              InlineKeyboardButton("💝 sʜᴀʀᴇ", url="https://t.me/share/url?url=😱%20onlymovie%2076.²·⁰%20😱%0A%0Aഏത്%20അർധരാത്രി%20ചോദിച്ചാലും%20പടം%20കിട്ടും,%20ലോകത്തിലെ%20ഒട്ടുമിക്ക%20ഭാഷകളിലുമുള്ള%20സിനിമകളുടെ%20കളക്ഷൻ..%20❤️%0A%0A👇%20GROUP%20LINK%20👇%0A@onlymovie76@onlymovie76%0A@onlymovie76") ],
                                             [ InlineKeyboardButton("🔮 ᴍᴏᴠɪᴇ ᴜᴘᴅᴀᴛᴇs 🔮", url="https://t.me/M76Links") ] ] ),
                                             
         protect_content=True if pre == 'filep' else False,
