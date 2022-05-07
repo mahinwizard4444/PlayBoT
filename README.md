@@ -1,6 +1,6 @@
 # COBY_FILTER_BOT
 Very Sempil Bot Auto Filter bot
-##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Bot+Name+»+Coby+Filter+Bot!;created+by+Coby+Support+Team!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
+##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Bot+Name+»+My+Filter+Bot!;created+by+Coby+Support+Team!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
 </p>
 
 ![Coby](https://telegra.ph/file/161f17f675ce33fe2aaf2.jpg)
