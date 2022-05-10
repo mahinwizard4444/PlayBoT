@@ -437,7 +437,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer('Ok Da...🙃')
     elif query.data == "help":
         buttons = [[
-            InlineKeyboardButton('⚡ ᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴏsᴇ ᴛʜɪs ʙᴜᴛᴛᴏɴs ⚡', callback_data='start')
+            InlineKeyboardButton("➕️ Add me to Your Chat ➕️", url=f"http://t.me/{bot_info.BOT_USERNAME}?startgroup=true")
         ], [
             InlineKeyboardButton('👑 ᴏɴᴡᴇʀ', callback_data='about'),
             InlineKeyboardButton('👥 ɢʀᴏᴜᴘ', url='https://t.me/TvSeriesLand4U')
